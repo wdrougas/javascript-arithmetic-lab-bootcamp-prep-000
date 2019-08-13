@@ -20,3 +20,7 @@ function divide(a,b) {
 function inc(a) {
   return a + 1
 }
+
+function dec(a) {
+  return a - 1
+}
